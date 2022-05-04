@@ -12,6 +12,8 @@
 ### Setup
 
 ```
+pip install -U virtualenv
+virtualenv venv
 source venv/bin/activate
 pip install -r requirements
 ```
